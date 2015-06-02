@@ -1,16 +1,15 @@
-### abc Ghost Theme
+### Simplycode Ghost Theme
+
+Credits to [juliancwirko](https://github.com/juliancwirko). This theme is the clone of his work
+[abc](https://github.com/juliancwirko/abc)
+
 
 #### Demo:
 [http://abc.pxt.be](http://abc.pxt.be)
 
-abc theme is a free open source Ghost theme (MIT license).
+Simplycode theme is a free open source Ghost theme (MIT license).
 You can use it as you like. If you want you can show me what you have build on it.
 
-#### Note
-Remember to change your `disqus_shortname` variable in `partials/disqus.hbs` file!
-
-#### Blog post about ABC theme:
-[Ghost theming with Zurb Foundation and SCSS](http://julian.io/ghost-theming-with-zurb-foundation-and-scss/)
 
 ### Main features
 * Zurb Foundation 5 framework [read more](http://abc.pxt.be/zurb-foundation-5/)
@@ -36,6 +35,13 @@ Your feedback will be very appreciated. You can also send feature requests by op
 
 Thanks!
 
+#### Installation steps
+
+* Download the code from the repository [https://github.com/selvakumarEsra/abc](https://github.com/selvakumarEsra/abc)
+Remember to change your `disqus_shortname` variable in `partials/disqus.hbs` file!
+
+
+
 #### Compiling Sass
 
 You can use Grunt and Node Sass. Just cd into theme folder and run ````npm install```` (with 'sudo' if you're on Ubuntu like linux) and then ````grunt```` to compile scss file and also 'watch for changes'.
@@ -46,14 +52,11 @@ Of course if you want you can still use Ruby version. Just go to assets folder a
 
 But I think that Libsass/Node version is much faster.
 
-#### You can use image covers for particular sites:
 
-Just use standard Ghost admin panel settings.
+#### Feedback
 
-- Static page example: [http://abc.pxt.be/about/](http://abc.pxt.be/about/)
-- Post example: [http://abc.pxt.be/post-with-image-cover/](http://abc.pxt.be/post-with-image-cover/)
-- Particular tag list example: [http://abc.pxt.be/tag/getting-started/](http://abc.pxt.be/tag/getting-started/)
-- Author cover example: [http://abc.pxt.be/author/ava-johnson/](http://abc.pxt.be/author/ava-johnson/)
+Found a bug or want to add new features. Open issues on GitHub.
+[hhttps://github.com/selvakumarEsra/abc/issues](https://github.com/selvakumarEsra/abc/issues)
 
 
 #### Changelog
