@@ -38,7 +38,10 @@ Thanks!
 #### Installation steps
 
 * Download the code from the repository [https://github.com/selvakumarEsra/abc](https://github.com/selvakumarEsra/abc)
-Remember to change your `disqus_shortname` variable in `partials/disqus.hbs` file!
+* Copy the `simplycode` folder to `ghost dir/content/themes/` folder
+* Change `disqus_shortname` variable in `partials/disqus.hbs` file to your disqus short name
+* In the ghost Admin dashboard, goto Theme section and select simplycode theme
+* 
 
 
 
@@ -57,52 +60,6 @@ But I think that Libsass/Node version is much faster.
 
 Found a bug or want to add new features. Open issues on GitHub.
 [hhttps://github.com/selvakumarEsra/abc/issues](https://github.com/selvakumarEsra/abc/issues)
-
-
-#### Changelog
-
-##### 1.5.0 (19.04.2015)
-
-- Prev/Next post feature (Ghost 0.6.0 adjustments)
-
-##### 1.4.0 (06.03.2015)
-
-- custom navigation setup (Ghost 0.5.9 adjustments)
-
-##### 1.3.1 (01.02.2015)
-
-- tag page image covers (Ghost 0.5.8 adjustments)
-- Foundation update
-
-##### 1.3.0 (05.01.2015)
-
-- simple Grunt tasks added - Sass compile and watch..
-
-##### 1.2.1 (14.12.2014)
-
-- Foundation update (5.5.0)
-
-##### 1.2.0 (20.11.2014)
-
-- remove NiceScroll
-- add SmoothScroll
-- small fixes
-
-##### 1.1.2 (01.11.2014)
-
-- Foundation update (5.4.7)
-- small fixes
-
-##### 1.1.1 (26.10.2014)
-
-- NiceScroll update
-
-##### 1.1.0 (25.10.2014)
-
-- Ghost 0.5.3 ready
-- custom Open Graph tags removed (in Ghost 0.5.3 you have better default ones)
-- removed unused imagesloaded script
-- post headers color fix
 
 #### License
 
